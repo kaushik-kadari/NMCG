@@ -61,7 +61,7 @@ After starting the Flask server, navigate to `http://127.0.0.1:5000` in your web
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://nmcg-chatbot.onrender.com/chatbot).
+Check out the live demo of the application [here](https://nmcg-chatbot.onrender.com/).
 
 ## Screenshots
 
